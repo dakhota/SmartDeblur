@@ -10,3 +10,7 @@
 *.lai
 *.la
 *.a
+
+dist
+*.zip
+*.dmg
